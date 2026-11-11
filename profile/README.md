@@ -69,7 +69,7 @@ We cut through bureaucracy to deliver high-impact software, custom AI agents, an
 
 ## 💡 Why Work With Us?
 
-1. **Unmatched Speed:** Get a working prototype before your first call.
+1. **Unmatched Speed:** Get a working prototype in 2 weeks.
 2. **Direct Access:** Work directly with the engineers building your solution—no middle managers.
 3. **Laser-Focused Execution:** Fast execution without endless meetings.
 4. **Bilingual:** Native execution in both **English** and **Spanish**.
